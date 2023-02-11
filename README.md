@@ -1,1 +1,1 @@
-Discover the ultimate Power BI repository on GitHub. My collection of innovative and visually stunning dashboards and reports are crafted with precision to provide valuable insights in a captivating manner.
+This PowerBI dashboard is crafted leveraging insights from a comprehensive survey of data professionals. With intuitive visualizations uncover valuable insights about data experts across the globe.
